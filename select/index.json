@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Fever on the Road",
+  "base_artist": "A-One",
+  "createdAt": "2026-02-25T07:09:54.015627Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fever on the Road",
+      "artist": "A-One",
+      "has_synced": false,
+      "path": "select/pl_01_Fever_on_the_Road_A-One.txt"
+    }
+  ]
+}
